@@ -1,0 +1,1 @@
+wm_yr_wk is the retail week identifier used to map daily sales records to weekly item-store price data. Daily observations inherit the selling price associated with their corresponding retail week.
